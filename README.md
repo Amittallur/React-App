@@ -18,3 +18,7 @@ Tech stack:
 Middleware's (e.g. Thunk)
 2. Backend: create and use a json server
 3. Any additional stack/tools as per your preference
+
+
+
+https://main--silver-caramel-bc9fee.netlify.app/
